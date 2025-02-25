@@ -11,7 +11,8 @@ This paper provides our implementation of building efficient and interpretable m
 - quantus (for computing several metrics for saliency maps)
 - Ranger Optimizer (for optimizing ResNet model during training)
 
-The directory consists of the following file and folders:
+
+## Structure
     - Explanations: This folder consists of all the quanlitative explanations produced by the VGG and RESNET models.
     - GTSRB: This folder consists of explanation and roadplots for German Traffic Sign Recommendation Benchmark dataset.
     - datasets: This folder consists subset LISA and Subset LISA dataset.
